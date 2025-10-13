@@ -2,3 +2,4 @@
 [2026-03-12] #0002  Improved variable naming  // chore: add MIT license
 [2026-03-12] #0003  Optimised query performance  // docs: add defense checklist and IoC reference
 [2026-03-12] #0004  Removed dead code  // docs: add images folder with capture guide
+[2026-03-12] #0005  Reorganised folder structure  // docs: add lab screenshot from SEToolkit credential harv
