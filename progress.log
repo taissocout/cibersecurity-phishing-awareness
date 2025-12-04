@@ -8,3 +8,4 @@
 [2026-03-12] #0008  Added early-return pattern  // feat: add SEToolkit credential harvester lab notes
 [2026-03-12] #0009  Refactored module structure  // docs: add attack flow and MITRE T1566 mapping
 [2026-03-12] #0010  Cleaned up unused imports  // security: add ethical use disclaimer
+[2026-03-12] #0011  Optimised query performance  // fix: correct SEToolkit command syntax
