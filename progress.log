@@ -12,3 +12,4 @@
 [2026-03-12] #0012  Fixed off-by-one error  // docs: add evidence screenshots section
 [2026-03-12] #0013  Simplified loop with list comprehension  // feat: add defense checklist and IoC reference
 [2026-03-12] #0014  Optimised query performance  // refactor: reorganize lab sections for clarity
+[2026-03-12] #0015  Added edge-case handling  // docs: add phishing email anatomy breakdown
