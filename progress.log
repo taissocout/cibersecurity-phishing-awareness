@@ -17,3 +17,4 @@
 [2026-03-12] #0017  Reviewed setup instructions  // feat: add social engineering awareness training notes
 [2026-03-12] #0018  Centralised constants  // docs: add executive summary section
 [2026-03-12] #0019  Removed dead code  // fix: correct screenshot filenames in README
+[2026-03-12] #0020  Added early-return pattern  // docs: add MITRE ATT&CK T1566.001 reference
