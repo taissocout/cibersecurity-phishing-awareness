@@ -14,3 +14,4 @@
 [2026-03-12] #0014  Optimised query performance  // refactor: reorganize lab sections for clarity
 [2026-03-12] #0015  Added edge-case handling  // docs: add phishing email anatomy breakdown
 [2026-03-12] #0016  Cleaned up unused imports  // security: document SPF DKIM DMARC defenses
+[2026-03-12] #0017  Reviewed setup instructions  // feat: add social engineering awareness training notes
